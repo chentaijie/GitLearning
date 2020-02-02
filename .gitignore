@@ -4,6 +4,9 @@
 # no .exe files
 *.exe
 
+# no .pdb files
+*.pdb
+
 # but do track lib.a, even though you're ignoring .a files above
 !lib.a
 
